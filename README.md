@@ -47,7 +47,6 @@ This section is organized as follows: we begin by detailing our finetuning strat
 <p align="center" style="text-align:center;">
   <img width="98%" src="./img/10.png">
 </p>
-</p>
 <p align="center">
   <div style="display: inline-block; width: 31%;">
     <img width="100%" src="./img/06.gif">    
