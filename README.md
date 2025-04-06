@@ -14,7 +14,6 @@ Crucially, our approach enables scalable 3D content creation by bridging video a
 <p align="center" style="text-align:center;">
   <img width="98%" src="./img/00.png">
 </p>
-</p>
 <p align="center">
   <div style="display: inline-block; width: 31%;">
     <img width="100%" src="./img/01.gif">    
