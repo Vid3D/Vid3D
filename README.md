@@ -16,15 +16,15 @@ Crucially, our approach enables scalable 3D content creation by bridging video a
 </p>
 <p align="center">
   <div style="display: inline-block; width: 31%;">
-    <img width="100%" src="./img/01.gif">    
+    <img width="100%" src="./11.gif">    
     <br>
   </div>
   <div style="display: inline-block; width: 31%; margin-left: 2%;">
-    <img width="100%" src="./img/02.gif">    
+    <img width="100%" src="./22.gif">    
     <br>
   </div>
   <div style="display: inline-block; width: 31%; margin-left: 2%;">
-    <img width="100%" src="./img/03.gif">    
+    <img width="100%" src="./33.gif">    
     <br>
   </div>
 </p>
@@ -48,17 +48,34 @@ This section is organized as follows: we begin by detailing our finetuning strat
 </p>
 <p align="center">
   <div style="display: inline-block; width: 31%;">
-    <img width="100%" src="./img/06.gif">    
+    <img width="100%" src="./44.gif">    
     <br>
   </div>
   <div style="display: inline-block; width: 31%; margin-left: 2%;">
-    <img width="100%" src="./img/05.gif">    
+    <img width="100%" src="./55.gif">    
     <br>
   </div>
   <div style="display: inline-block; width: 31%; margin-left: 2%;">
-    <img width="100%" src="./img/04.gif">    
+    <img width="100%" src="./66.gif">    
     <br>
   </div>
 </p>
 
 ### Text-guidied 3D generation
+<p align="center" style="text-align:center;">
+  <img width="98%" src="./3333.png">
+</p>
+<p align="center">
+  <div style="display: inline-block; width: 31%;">
+    <img width="100%" src="./77.gif">    
+    <br>
+  </div>
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
+    <img width="100%" src="./88.gif">    
+    <br>
+  </div>
+  <div style="display: inline-block; width: 31%; margin-left: 2%;">
+    <img width="100%" src="./99.gif">    
+    <br>
+  </div>
+</p>
